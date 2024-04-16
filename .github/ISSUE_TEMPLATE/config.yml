@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+#  - name: FAQ
+#    url: https://example.com/faq
+#    about: Frequently asked questions
+#  - name: Troubleshooting
+#    url: https://example.com/docs/troubleshooting/common-issues
+#    about: Other people ran into these issues too
+  - name: Discuss on Discord
+    url: https://discord.gg/MGjZNb6VHP
+    about: Join our community home on Discord

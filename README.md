@@ -1,5 +1,3 @@
-## Description
+# .github
 
-Welcome to `@digital-alchemy`!
-
-View documentation at: https://docs.digital-alchemy.app/
+Special repository for our "default community health files"
