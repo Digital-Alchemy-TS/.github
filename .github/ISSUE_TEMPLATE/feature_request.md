@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: 🎏 Feature request
 about: Suggest an improvement, or a new feature
 title: ''
 labels: enhancement
