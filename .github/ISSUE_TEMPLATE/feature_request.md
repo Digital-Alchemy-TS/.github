@@ -6,18 +6,15 @@ labels: enhancement
 assignees: ''
 ---
 
-**Context**
+## 🪤 Context
 
-<!--Please describe a proper context-->
+<!--What are you trying to accomplish, what would you suggest -->
 
-**Suggested solution**
+## 📬 Caveats
 
-<!--Tell us what you would suggest-->
+<!--Any additional considerations related to this?-->
+<!--Dependant issues, alternate solutions-->
 
-**Considered alternatives**
+## 🩻 Additional details
 
-<!--Please add any alternative solutions that you have considered-->
-
-**Additional details**
-
-<!--Please add context, links, reasons, screenshots, etc.-->
+<!--Additional context, links, reasons, screenshots, etc.-->

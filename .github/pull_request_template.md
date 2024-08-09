@@ -1,8 +1,10 @@
-#### Changes
+## 📬 Changes
+
+<!-- short description of what's going on, help the changelog be useful -->
 
 - ...
 
-#### Checklist
+## 🗒️ Checklist
 
 <!-- please check all items and add your own -->
 
