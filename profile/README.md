@@ -15,3 +15,9 @@
     <img src="https://raw.githubusercontent.com/Digital-Alchemy-TS/.github/main/profile/github-logo.png" alt="Largely displayed logo of Digital Alchemy">
   </a>
 </div>
+
+---
+
+<div align='center'>
+  <a href="https://docs.digital-alchemy.app/">Documentation</a>
+</div>
