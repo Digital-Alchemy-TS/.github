@@ -1,3 +1,5 @@
+![stars](https://img.shields.io/github/stars/Digital-Alchemy-TS)
+[![discord](https://img.shields.io/discord/1219758743848489147?label=Discord&logo=discord)](https://discord.gg/JkZ35Gv97Y)
 
 ---
 
@@ -18,6 +20,23 @@
 
 ---
 
-<div align='center'>
-  <a href="https://docs.digital-alchemy.app/">Documentation</a>
-</div>
+## Project State
+
+> Digital Alchemy uses date based versioning: `{YY.MM.build}`
+
+### Core Typescript Projects
+
+| Project | Docs | Version | Badges |
+| --- | --- | --- | --- |
+| 🧩 [core](https://github.com/Digital-Alchemy-TS/core) | [docs](https://docs.digital-alchemy.app/docs/core/) | ![version](https://img.shields.io/github/package-json/version/Digital-Alchemy-TS/core) | ![npm](https://img.shields.io/npm/dw/%40digital-alchemy%2Fcore) [![issues](https://img.shields.io/github/issues/Digital-Alchemy-TS/core)](https://github.com/Digital-Alchemy-TS/core/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) [![codecov](https://codecov.io/github/Digital-Alchemy-TS/core/graph/badge.svg?token=IBGLY3RY68)](https://codecov.io/github/Digital-Alchemy-TS/core) |
+| 🏠 [hass](https://github.com/Digital-Alchemy-TS/hass) | [docs](https://docs.digital-alchemy.app/docs/home-automation/hass/) | ![version](https://img.shields.io/github/package-json/version/Digital-Alchemy-TS/hass) | ![npm](https://img.shields.io/npm/dw/%40digital-alchemy%2Fhass) [![issues](https://img.shields.io/github/issues/Digital-Alchemy-TS/hass)](https://github.com/Digital-Alchemy-TS/hass/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) [![codecov](https://codecov.io/github/Digital-Alchemy-TS/hass/graph/badge.svg?token=IBGLY3RY68)](https://codecov.io/github/Digital-Alchemy-TS/hass) |
+| 🎬 [type-writer](https://github.com/Digital-Alchemy-TS/type-writer) | [docs](https://docs.digital-alchemy.app/docs/home-automation/type-writer/) | ![version](https://img.shields.io/github/package-json/version/Digital-Alchemy-TS/type-writer) | ![npm](https://img.shields.io/npm/dw/%40digital-alchemy%2Ftype-writer) [![issues](https://img.shields.io/github/issues/Digital-Alchemy-TS/type-writer)](https://github.com/Digital-Alchemy-TS/type-writer/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+| 🧠 [synapse](https://github.com/Digital-Alchemy-TS/synapse) | [docs](https://docs.digital-alchemy.app/docs/home-automation/synapse/) | ![version](https://img.shields.io/github/package-json/version/Digital-Alchemy-TS/synapse) | ![npm](https://img.shields.io/npm/dw/%40digital-alchemy%2Fsynapse) [![issues](https://img.shields.io/github/issues/Digital-Alchemy-TS/synapse)](https://github.com/Digital-Alchemy-TS/synapse/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) [![codecov](https://codecov.io/github/Digital-Alchemy-TS/synapse/graph/badge.svg?token=IBGLY3RY68)](https://codecov.io/github/Digital-Alchemy-TS/synapse) |
+| 🤖 [automation](https://github.com/Digital-Alchemy-TS/automation) | [docs](https://docs.digital-alchemy.app/docs/home-automation/automation/) | ![version](https://img.shields.io/github/package-json/version/Digital-Alchemy-TS/automation) | ![npm](https://img.shields.io/npm/dw/%40digital-alchemy%2Fautomation) [![issues](https://img.shields.io/github/issues/Digital-Alchemy-TS/automation)](https://github.com/Digital-Alchemy-TS/automation/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+| 📡 [mqtt](https://github.com/Digital-Alchemy-TS/mqtt) | [docs](https://docs.digital-alchemy.app/docs/support/mqtt/) | ![version](https://img.shields.io/github/package-json/version/Digital-Alchemy-TS/mqtt) | ![npm](https://img.shields.io/npm/dw/%40digital-alchemy%2Fmqtt-extension) [![issues](https://img.shields.io/github/issues/Digital-Alchemy-TS/mqtt)](https://github.com/Digital-Alchemy-TS/mqtt/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) |
+| 🌐 [fastify](https://github.com/Digital-Alchemy-TS/fastify) | [docs](https://docs.digital-alchemy.app/docs/support/fastify/) | ![version](https://img.shields.io/github/package-json/version/Digital-Alchemy-TS/fastify) | ![npm](https://img.shields.io/npm/dw/%40digital-alchemy%2Ffastify-extension) [![issues](https://img.shields.io/github/issues/Digital-Alchemy-TS/fastify)](https://github.com/Digital-Alchemy-TS/fastify/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen)
+
+### Other Projects
+
+- 📦 [Home Assistant Addons](https://github.com/Digital-Alchemy-TS/addons)
+- 🧠 [Synapse Custom Component](https://github.com/Digital-Alchemy-TS/synapse-extension)
